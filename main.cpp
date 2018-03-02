@@ -3,7 +3,7 @@
 #include "Game.h"
 
 using namespace std;
-
+//addming a comment to test git
 int main(int argc, char** argv)
 {
 	ControllingInput ci;
